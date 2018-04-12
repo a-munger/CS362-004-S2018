@@ -941,7 +941,7 @@ int adventurerEffect (struct gameState *state)
 	return 0;
 }
 
-int smithyEffect (int handPos, struct gameState *state)
+int smithyEffect (struct gameState *state, int handPos)
 {
 	int drawntreasure = 0;
 	int currentPlayer = whoseTurn(state);
@@ -1326,7 +1326,7 @@ int cardEffect (int card, int choice1, int choice2, int choice3, struct gameStat
 		*/
 
 	case smithy:
-		return smithyEffect(handPos, state)
+		return smithyEffect(state, handPos)
 		
 		/*
 		// 3 Cards
