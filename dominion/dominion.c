@@ -1671,7 +1671,9 @@ int cardEffect (int card, int choice1, int choice2, int choice3, struct gameStat
 			return -1;
 			
 		}
-		if(DEBUG)printf("Player %d reveals card number: %d\n", currentPlayer, state->hand[currentPlayer][choice1]);
+		
+		if(DEBUG)
+			printf("Player %d reveals card number: %d\n", currentPlayer, state->hand[currentPlayer][choice1]);
 		
 
 		/* increase supply count for choosen card by amount being discarded */
@@ -1684,7 +1686,6 @@ int cardEffect (int card, int choice1, int choice2, int choice3, struct gameStat
 			if(i != currentPlayer)
 			{
 				gainCard(state->hand[currentPlayer][choice1], state, 0, i);
-				
 			}
 			
 		}
@@ -1712,6 +1713,7 @@ int cardEffect (int card, int choice1, int choice2, int choice3, struct gameStat
 
 	case cutpurse:
 		updateCoins(currentPlayer, state, 2);
+		
 		for(i = 0; i < state->numPlayers; i++)
 		{
 			if(i != currentPlayer)
@@ -1730,7 +1732,8 @@ int cardEffect (int card, int choice1, int choice2, int choice3, struct gameStat
 					
 						for(k = 0; k < state->handCount[i]; k++)
 						{
-							if(DEBUG)printf("Player %d reveals card number %d\n", i, state->hand[i][k]);
+							if(DEBUG)
+								printf("Player %d reveals card number %d\n", i, state->hand[i][k]);
 						}
 						break;
 						
@@ -1791,18 +1794,11 @@ int cardEffect (int card, int choice1, int choice2, int choice3, struct gameStat
 		state->numBuys++;
 		if(choice1)
 		{
-			
-		{
-			
-
 			/* gain coins equal to trashed card */
 			state->coins = state->coins + getCost(handCard(choice1, state));
 			
-
 			/* trash card */
 			discardCard(choice1, currentPlayer, state, 1);
-			
-		}
 		}
 		
 
@@ -1846,10 +1842,6 @@ int cardEffect (int card, int choice1, int choice2, int choice3, struct gameStat
 		}
 		if(index > -1)
 		{
-			
-		{
-			
-
 			/* trash both treasure cards */
 			discardCard(handPos, currentPlayer, state, 1);
 			discardCard(index, currentPlayer, state, 1);
@@ -1865,8 +1857,6 @@ int cardEffect (int card, int choice1, int choice2, int choice3, struct gameStat
 
 			/* return success */
 			return 1;
-			
-		}
 		}
 		
 
