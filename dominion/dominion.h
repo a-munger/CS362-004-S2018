@@ -16,7 +16,8 @@
 /* hand# means index of a card in current active player's hand */
 
 enum CARD
-  {curse = 0,
+  {
+	curse = 0,
    estate,
    duchy,
    province,
