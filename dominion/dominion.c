@@ -1050,7 +1050,7 @@ int seaHagEffect(struct gameState *state)
 			state->discard[i][state->discardCount[i]] = state->deck[i][state->deckCount[i]--];
 			state->deckCount[i]--;
 			state->discardCount[i]++;
-			state->deck[i][state->deckCount[i]--] = curse; // Top card now a curse
+			state->deck[i][state->deckCount[i] - 2] = curse; // Top card now a curse
 		}
 	}
 	return 0;
