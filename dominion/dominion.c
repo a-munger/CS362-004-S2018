@@ -918,7 +918,7 @@ int adventurerEffect (struct gameState *state)
 		drawCard(currentPlayer, state);
 		
 		// top card of hand is most recently drawn card.
-		cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer]];
+		cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer] - 1];
 		
 		if(cardDrawn == copper || cardDrawn == silver || cardDrawn == gold) drawntreasure++;
 		else
@@ -951,7 +951,7 @@ int smithyEffect (struct gameState *state, int handPos)
 	
 
 	// discard card from hand
-	discardCard(handPos, currentPlayer, state, 1);
+	discardCard(handPos, currentPlayer, state, 0);
 	return 0;
 }
 
@@ -968,7 +968,7 @@ int minionEffect(struct gameState *state, int choice1, int choice2, int handPos)
 	discardCard(handPos, currentPlayer, state, 0);
 	if(choice1)		/* 2 coins */
 	{
-		state->coins = state->coins + 1;
+		state->coins = state->coins + 2;
 	}
 	else if(choice2)	/* discard hand, redraw 4, other players with 5+ cards discard hand and draw 4 */
 	{
@@ -1050,7 +1050,7 @@ int seaHagEffect(struct gameState *state)
 			state->discard[i][state->discardCount[i]] = state->deck[i][state->deckCount[i]--];
 			state->deckCount[i]--;
 			state->discardCount[i]++;
-			state->deck[i][state->deckCount[i] - 2] = curse; // Top card now a curse
+			state->deck[i][state->deckCount[i]--] = curse; // Top card now a curse
 		}
 	}
 	return 0;
