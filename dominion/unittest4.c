@@ -1,8 +1,39 @@
-#include "dominion.h"
-#include <stdio.h>
 #include <stdlib.h>
+#include <stdio.h>
+#include "assert.h"
+#include "dominion.h"
 #include "rngs.h"
+#include <time.h>'
+
+//buyCard()
 
 int main () {
-  return 0;
+	struct gameState state;
+	int s;
+	int k[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+
+	initializeGame(2, k, 2, &state);
+
+	state.numBuys = 0;
+
+	s = buyCard(5, &state);
+
+	assert(s == -1);
+
+	state.numBuys = 5;
+
+	state.coins = 0;
+
+	s = buyCard(5, &state);
+
+	assert(s == -1);
+
+	state.coins = 100;
+
+	s = buyCard(5, &state);
+
+	assert(s == 0);
+
+	printf("buyCard passed tests\n");
+	return 0;
 }
