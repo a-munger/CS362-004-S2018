@@ -15,12 +15,6 @@ int main (int argc, char** argv) {
 
 	initializeGame(2, k, 2, &G);
 
-	//make sure two coins drawn;
-	/*choice1 = 2;
-	temp = G.coins;
-	cardEffect(steward, choice1, choice2, choice3, &G, NULL);
-	assert(G.coins == temp + 2);*/
-
 	choice1 = 1;
 	temp = numHandCards(&G);
 	cardEffect(steward, choice1, choice2, choice3, &G, NULL);

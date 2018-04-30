@@ -3,7 +3,7 @@
 #include "assert.h"
 #include "dominion.h"
 #include "rngs.h"
-#include <time.h>'
+#include <time.h>
 
 //buyCard()
 

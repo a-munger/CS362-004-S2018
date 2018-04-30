@@ -29,56 +29,60 @@ runtests: testDrawCard
 	gcov dominion.c >> unittestresult.out
 	cat dominion.c.gcov >> unittestresult.out
 
-unittestresults.out:
-	make cardtest1
-	make cardtest2
-	make cardtest3
-	make cardtest4
-	make unittest1
-	make unittest2
-	make unittest3
-	make unittest4
-	echo "RUNNING TESTS" >> unittestresults.out
-	echo "All" >> unittestresults.out
-	make tests >> unittestresults.out
-	echo "COVERAGE: Individual functions and TOTAL DOMINION.C" >> unittestresults.out
-	gcov -f -b dominion.c >> unittestresults.out
-	echo "Results written to: unittestresults.out"
-	echo "Please open or CAT to view"
-	
-tests: 
-	./cardtest1
-	./cardtest2
-	./cardtest3
-	./cardtest4
-	./unittest3
-	./unittest1
-	./unittest2
-	./unittest4
-	
-cardtest1: cardtest1.c dominion.o rngs.o
-	gcc -o cardtest1 -g  cardtest1.c dominion.o rngs.o $(CFLAGS)
+unittest1:
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c unittest1.c rngs.c -o unittest1 -lm -g
 
-cardtest2: cardtest2.c dominion.o rngs.o
-	gcc -o cardtest2 -g  cardtest2.c dominion.o rngs.o $(CFLAGS)
+unittest2:
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c unittest2.c rngs.c -o unittest2 -lm -g
 
-cardtest3: cardtest3.c dominion.o rngs.o
-	gcc -o cardtest3 -g  cardtest3.c dominion.o rngs.o $(CFLAGS)
+unittest3:
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c unittest3.c rngs.c -o unittest3 -lm -g
 
-cardtest4: cardtest4.c dominion.o rngs.o
-	gcc -o cardtest4 -g  cardtest4.c dominion.o rngs.o $(CFLAGS)
+unittest4:
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c unittest4.c rngs.c -o unittest4 -lm -g
 
-unittest1: unittest1.c dominion.o rngs.o
-	gcc -o unittest1 -g  unittest1.c dominion.o rngs.o $(CFLAGS)
+cardtest1:
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c cardtest1.c rngs.c -o cardtest1 -lm -g
 
-unittest2: unittest2.c dominion.o rngs.o
-	gcc -o unittest2 -g  unittest2.c dominion.o rngs.o $(CFLAGS)
+cardtest2:
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c cardtest2.c rngs.c -o cardtest2 -lm -g
 
-unittest3: unittest3.c dominion.o rngs.o
-	gcc -o unittest3 -g  unittest3.c dominion.o rngs.o $(CFLAGS)
+cardtest3:
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c cardtest3.c rngs.c -o cardtest3 -lm -g
 
-unittest4: unittest4.c dominion.o rngs.o
-	gcc -o unittest4 -g  unittest4.c dominion.o rngs.o $(CFLAGS)
+cardtest4:
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c cardtest4.c rngs.c -o cardtest4 -lm -g
+
+unitTests:
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c unittest1.c rngs.c -o unittest1 -lm -g
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c unittest2.c rngs.c -o unittest2 -lm -g
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c unittest3.c rngs.c -o unittest3 -lm -g
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c unittest4.c rngs.c -o unittest4 -lm -g
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c cardtest1.c rngs.c -o cardtest1 -lm -g
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c cardtest2.c rngs.c -o cardtest2 -lm -g
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c cardtest3.c rngs.c -o cardtest3 -lm -g
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c cardtest4.c rngs.c -o cardtest4 -lm -g
+
+tests:
+	echo "RUNNING MYTESTS TO EXECUTE UNIT TESTS" &> unittestresults.out
+	echo "Executing unittest1" >> unittestresults.out
+	./unittest1 >> unittestresults.out
+	echo "Executing unittest2" >> unittestresults.out
+	./unittest2 >> unittestresults.out
+	echo "Executing unittest3" >> unittestresults.out
+	./unittest3 >> unittestresults.out
+	echo "Executing unittest4" >> unittestresults.out
+	./unittest4 >> unittestresults.out
+	echo "Executing cardtest1" >> unittestresults.out
+	./cardtest1 >> unittestresults.out
+	echo "Executing cardtest2" >> unittestresults.out
+	./cardtest2 >> unittestresults.out
+	echo "Executing cardtest3" >> unittestresults.out
+	./cardtest3 >> unittestresults.out
+	echo "Executing cardtest4" >> unittestresults.out
+	./cardtest4 >> unittestresults.out
+	gcov dominion.c >> unittestresults.out
+	cat dominion.c.gcov >> unittestresults.out
 
 player: player.c interface.o
 	gcc -o player player.c -g  dominion.o rngs.o interface.o $(CFLAGS)

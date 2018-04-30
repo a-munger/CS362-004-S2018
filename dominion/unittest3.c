@@ -3,7 +3,7 @@
 #include "assert.h"
 #include "dominion.h"
 #include "rngs.h"
-#include <time.h>'
+#include <time.h>
 
 //getCost()
 
@@ -12,7 +12,7 @@ int main () {
 
 	assert(getCost(adventurer) == 6);
 
-	assert(getCost(3) == 5);
+	assert(getCost(duchy) == 5);
 
 	assert(getCost(village) == 3);
 
