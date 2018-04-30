@@ -18,8 +18,6 @@ int main (int argc, char** argv) {
 	temp = numHandCards(&G);
 	cardEffect(smithy, choice1, choice2, choice3, &G, NULL);
 
-	//make sure 3 cards were drawn
-
 	assert(numHandCards(&G) == temp + 2);
 	printf("Smithy passed tests\n");
 
