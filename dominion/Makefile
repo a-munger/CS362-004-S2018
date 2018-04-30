@@ -67,21 +67,29 @@ tests:
 	echo "RUNNING MYTESTS TO EXECUTE UNIT TESTS" &> unittestresults.out
 	echo "Executing unittest1" >> unittestresults.out
 	./unittest1 >> unittestresults.out
+	
 	echo "Executing unittest2" >> unittestresults.out
 	./unittest2 >> unittestresults.out
+	
 	echo "Executing unittest3" >> unittestresults.out
 	./unittest3 >> unittestresults.out
+	
 	echo "Executing unittest4" >> unittestresults.out
 	./unittest4 >> unittestresults.out
+	
 	echo "Executing cardtest1" >> unittestresults.out
 	./cardtest1 >> unittestresults.out
+	
 	echo "Executing cardtest2" >> unittestresults.out
 	./cardtest2 >> unittestresults.out
+	
 	echo "Executing cardtest3" >> unittestresults.out
 	./cardtest3 >> unittestresults.out
+	
 	echo "Executing cardtest4" >> unittestresults.out
 	./cardtest4 >> unittestresults.out
-	gcov dominion.c >> unittestresults.out
+	
+	gcov -f -b dominion.c >> unittestresults.out
 	cat dominion.c.gcov >> unittestresults.out
 
 player: player.c interface.o
