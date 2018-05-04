@@ -5,7 +5,9 @@
 
 char inputChar()
 {
-    return 'A' + (random() % 26);
+	int n = (rand() % (126 - 32 + 1)) + 32;
+    char c = (char) n;
+    return c;
 }
 
 char *inputString()
@@ -13,11 +15,12 @@ char *inputString()
 	int i;
 	char tmp[6];
 	
-    for(i = 0; i < 6; i++)
+    for(i = 0; i < 5; i++)
 	{
-		tmp[i] = 'A' + (random() % 26);
+		char c = 'a' + (rand() % 26);
+		tmp[i] = c;
 	}
-	
+	tmp[5] = '\0';
 	char *rand = tmp;
 	
     return rand;
@@ -29,13 +32,22 @@ void testme()
   char *s;
   char c;
   int state = 0;
-  while (1)
+  
+  time_t start, end;
+  double elapsed;
+  start = time(NULL);
+  int terminate = 1;
+  
+  while (terminate)
   {
+	end = time(NULL);
+	elapsed = difftime(end, start);
     tcCount++;
     c = inputChar();
     s = inputString();
     printf("Iteration %d: c = %c, s = %s, state = %d\n", tcCount, c, s, state);
-
+	
+	
     if (c == '[' && state == 0) state = 1;
     if (c == '(' && state == 1) state = 2;
     if (c == '{' && state == 2) state = 3;
@@ -53,6 +65,12 @@ void testme()
       printf("error ");
       exit(200);
     }
+	
+	if (elapsed >= 300.0)
+	{
+		printf("5 minutes is up.\n");
+		terminate = 0;
+	}
   }
 }
 
