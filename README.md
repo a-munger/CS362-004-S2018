@@ -1,9 +1,13 @@
-Assignment-3 README.
-Creating unittests for functions and calculating total code coverage
-Functions chosen for unittests: whoseTurn, isGameOver, getCost, buyCard
-Functions chosen for cardtests: Adventurer, Smithy, Steward, Village
-Bugs removed after branching from Assignment 2
+Assignment-4 README.
+Creating randomtest functions and calculating total code coverage
+Functions chosen for randomtests: isGameOver, buyCard
 To Execute: 
 make all
-make unitTests
-make tests
+make randomtestadventurer.out
+make randomtestcards.out
+
+output files:
+randomtestadventurer.out >> coverage
+testadventurer.out >> printout of random adventurer tests
+randomtests.out >> printout of random card tests
+randomtest.out >> coverage

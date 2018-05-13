@@ -8,6 +8,7 @@
 #include <time.h>
 
 #define MAX_TESTS 1000
+#define ARR_SIZE(arr) ( sizeof((arr)) / sizeof((arr[0])) )
 
 //isGameOver() Random Tests
 

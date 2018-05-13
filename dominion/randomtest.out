@@ -1,4 +1,4 @@
-------- RUNNING RANDOM TEST BUNDLE: Printout -------------
+------- RUNNING RANDOM TEST CARD BUNDLE: Printout -------------
 All
 ----------- COVERAGE ---------------
 Function 'updateCoins'
@@ -92,7 +92,7 @@ Taken at least once:0.00% of 6
 Calls executed:0.00% of 3
 
 Function 'whoseTurn'
-Lines executed:100.00% of 2
+Lines executed:0.00% of 2
 No branches
 No calls
 
@@ -108,9 +108,9 @@ No branches
 No calls
 
 Function 'handCard'
-Lines executed:100.00% of 3
+Lines executed:0.00% of 3
 No branches
-Calls executed:100.00% of 1
+Calls executed:0.00% of 1
 
 Function 'numHandCards'
 Lines executed:0.00% of 3
@@ -124,10 +124,10 @@ Taken at least once:83.33% of 6
 Calls executed:100.00% of 4
 
 Function 'playCard'
-Lines executed:50.00% of 14
-Branches executed:60.00% of 10
-Taken at least once:30.00% of 10
-Calls executed:33.33% of 3
+Lines executed:0.00% of 14
+Branches executed:0.00% of 10
+Taken at least once:0.00% of 10
+Calls executed:0.00% of 3
 
 Function 'shuffle'
 Lines executed:100.00% of 15
@@ -158,9 +158,9 @@ Taken at least once:75.00% of 4
 No calls
 
 File 'dominion.c'
-Lines executed:25.17% of 588
-Branches executed:29.26% of 417
-Taken at least once:20.14% of 417
-Calls executed:14.00% of 100
+Lines executed:23.13% of 588
+Branches executed:27.82% of 417
+Taken at least once:19.42% of 417
+Calls executed:12.00% of 100
 Creating 'dominion.c.gcov'
 
