@@ -23,11 +23,50 @@ testAll: dominion.o testSuite.c
 
 interface.o: interface.h interface.c
 	gcc -c interface.c -g  $(CFLAGS)
+	
+randomtestadventurer.out:
+	make all
+	make randomadventurer
+	echo "------- RUNNING RANDOM TEST BUNDLE: Printout -------------" >> randomtestadventurer.out
+	echo "All" >> randomtestadventurer.out
+	echo "----------- COVERAGE ---------------" >> randomtestadventurer.out
+	gcov -f -b dominion.c >> randomtestadventurer.out
+	echo "Results now written to file randomtestadventurer.out"
+	echo "Please open or CAT to view"
+	
+randomtestcards.out:
+	make all
+	make randomtests
+	echo "------- RUNNING RANDOM TEST CARD BUNDLE: Printout -------------" >> randomtest.out
+	echo "All" >> randomtest.out
+	echo "----------- COVERAGE ---------------" >> randomtest.out
+	gcov -f -b dominion.c >> randomtest.out
+	echo "Results now written to file randomtest.out"
+	echo "Please open or CAT to view"
 
 runtests: testDrawCard 
 	./testDrawCard &> unittestresult.out
 	gcov dominion.c >> unittestresult.out
 	cat dominion.c.gcov >> unittestresult.out
+	
+randomadventurer:
+	make randomtestadventurer
+	./randomtestadventurer &> testadventurer.out
+	
+randomtests:
+	make randomtestcard1
+	make randomtestcard2
+	./randomtestcard1 &> randomtests.out
+	./randomtestcard2 >> randomtests.out
+	
+randomtestadventurer: randomtestadventurer.c dominion.o rngs.o
+	gcc -o randomtestadventurer -g randomtestadventurer.c dominion.o rngs.o $(CFLAGS)
+	
+randomtestcard1: randomtestcard1.c dominion.o rngs.o
+	gcc -o randomtestcard1 -g randomtestcard1.c dominion.o rngs.o $(CFLAGS)
+
+randomtestcard2: randomtestcard2.c dominion.o rngs.o
+	gcc -o randomtestcard2 -g randomtestcard2.c dominion.o rngs.o $(CFLAGS)
 
 unittest1:
 	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c unittest1.c rngs.c -o unittest1 -lm -g
