@@ -32,7 +32,6 @@ randomtestadventurer.out:
 	echo "----------- COVERAGE ---------------" >> randomtestadventurer.out
 	gcov -f -b dominion.c >> randomtestadventurer.out
 	echo "Results now written to file randomtestadventurer.out"
-	echo "Please open or CAT to view"
 	
 randomtestcard1.out:
 	make all
@@ -42,17 +41,15 @@ randomtestcard1.out:
 	echo "----------- COVERAGE ---------------" >> randomtestcard1.out
 	gcov -f -b dominion.c >> randomtestcard1.out
 	echo "Results now written to file randomtestcard1.out"
-	echo "Please open or CAT to view"
 	
 randomtestcard2.out:
 	make all
 	make randomtestcard2
-	echo "------- RUNNING RANDOM TEST CARD 1: Printout -------------" >> randomtestcard2.out
+	echo "------- RUNNING RANDOM TEST CARD 2: Printout -------------" >> randomtestcard2.out
 	echo "All" >> randomtestcard2.out
 	echo "----------- COVERAGE ---------------" >> randomtestcard2.out
 	gcov -f -b dominion.c >> randomtestcard2.out
 	echo "Results now written to file randomtestcard2.out"
-	echo "Please open or CAT to view"
 
 runtests: testDrawCard 
 	./testDrawCard &> unittestresult.out
