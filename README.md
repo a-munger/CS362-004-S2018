@@ -4,10 +4,13 @@ Functions chosen for randomtests: isGameOver, buyCard
 To Execute: 
 make all
 make randomtestadventurer.out
-make randomtestcards.out
+make randomtestcard1.out
+make randomtestcard2.out
 
 output files:
 randomtestadventurer.out >> coverage
 testadventurer.out >> printout of random adventurer tests
-randomtests.out >> printout of random card tests
-randomtest.out >> coverage
+randomtests1.out >> printout of random card 1 tests
+randomtests2.out >> printout of random card 2 tests
+randomtestcard1.out >> coverage
+randomtestcard2.out >> coverage

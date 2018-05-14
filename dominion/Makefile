@@ -27,21 +27,31 @@ interface.o: interface.h interface.c
 randomtestadventurer.out:
 	make all
 	make randomadventurer
-	echo "------- RUNNING RANDOM TEST BUNDLE: Printout -------------" >> randomtestadventurer.out
+	echo "------- RUNNING RANDOM TEST ADVENTURER: Printout -------------" >> randomtestadventurer.out
 	echo "All" >> randomtestadventurer.out
 	echo "----------- COVERAGE ---------------" >> randomtestadventurer.out
 	gcov -f -b dominion.c >> randomtestadventurer.out
 	echo "Results now written to file randomtestadventurer.out"
 	echo "Please open or CAT to view"
 	
-randomtestcards.out:
+randomtestcard1.out:
 	make all
-	make randomtests
-	echo "------- RUNNING RANDOM TEST CARD BUNDLE: Printout -------------" >> randomtest.out
-	echo "All" >> randomtest.out
-	echo "----------- COVERAGE ---------------" >> randomtest.out
-	gcov -f -b dominion.c >> randomtest.out
-	echo "Results now written to file randomtest.out"
+	make randomtestcard1
+	echo "------- RUNNING RANDOM TEST CARD 1: Printout -------------" >> randomtestcard1.out
+	echo "All" >> randomtestcard1.out
+	echo "----------- COVERAGE ---------------" >> randomtestcard1.out
+	gcov -f -b dominion.c >> randomtestcard1.out
+	echo "Results now written to file randomtestcard1.out"
+	echo "Please open or CAT to view"
+	
+randomtestcard2.out:
+	make all
+	make randomtestcard2
+	echo "------- RUNNING RANDOM TEST CARD 1: Printout -------------" >> randomtestcard2.out
+	echo "All" >> randomtestcard2.out
+	echo "----------- COVERAGE ---------------" >> randomtestcard2.out
+	gcov -f -b dominion.c >> randomtestcard2.out
+	echo "Results now written to file randomtestcard2.out"
 	echo "Please open or CAT to view"
 
 runtests: testDrawCard 
@@ -53,11 +63,13 @@ randomadventurer:
 	make randomtestadventurer
 	./randomtestadventurer &> testadventurer.out
 	
-randomtests:
+randomtestcard1:
 	make randomtestcard1
+	./randomtestcard1 &> randomtests1.out
+	
+randomtestcard2:
 	make randomtestcard2
-	./randomtestcard1 &> randomtests.out
-	./randomtestcard2 >> randomtests.out
+	./randomtestcard2 &> randomtests2.out
 	
 randomtestadventurer: randomtestadventurer.c dominion.o rngs.o
 	gcc -o randomtestadventurer -g randomtestadventurer.c dominion.o rngs.o $(CFLAGS)
