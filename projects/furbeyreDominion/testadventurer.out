@@ -1,0 +1,3000 @@
+---  Random Tests for ADVENTURER  ---
+Inputs:
+Deck Count: 19	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 21	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 6	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 2	Hand Count: 5	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 2	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 11	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 5	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 13	Hand Count: 5	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 23	Hand Count: 6	, Players: 2	 Position: 6
+
+Inputs:
+Deck Count: 3	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 9	Hand Count: 5	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 9	Hand Count: 6	, Players: 3	 Position: 6
+
+Inputs:
+Deck Count: 16	Hand Count: 3	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 2	Hand Count: 6	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 20	Hand Count: 6	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 1	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 24	Hand Count: 5	, Players: 2	 Position: 5
+
+Inputs:
+Deck Count: 10	Hand Count: 5	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 22	Hand Count: 3	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 6	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 11	Hand Count: 4	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 5	, Players: 2	 Position: 5
+
+Inputs:
+Deck Count: 20	Hand Count: 4	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 16	Hand Count: 4	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 1	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 18	Hand Count: 3	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 17	Hand Count: 6	, Players: 2	 Position: 5
+
+Inputs:
+Deck Count: 1	Hand Count: 6	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 14	Hand Count: 6	, Players: 2	 Position: 5
+
+Inputs:
+Deck Count: 25	Hand Count: 6	, Players: 2	 Position: 6
+
+Inputs:
+Deck Count: 15	Hand Count: 5	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 9	Hand Count: 5	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 5	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 23	Hand Count: 3	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 24	Hand Count: 6	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 1	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 10	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 2	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 3	Hand Count: 3	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 4	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 14	Hand Count: 5	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 13	Hand Count: 3	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 5	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 3	Hand Count: 5	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 17	Hand Count: 4	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 6	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 4	Hand Count: 6	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 6	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 4	Hand Count: 6	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 17	Hand Count: 6	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 17	Hand Count: 6	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 2	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 1	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 23	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 5	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 4	Hand Count: 6	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 16	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 22	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 23	Hand Count: 6	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 9	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 11	Hand Count: 5	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 7	Hand Count: 4	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 10	Hand Count: 3	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 14	Hand Count: 5	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 24	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 10	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 21	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 18	Hand Count: 6	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 17	Hand Count: 5	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 2	Hand Count: 3	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 24	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 18	Hand Count: 5	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 20	Hand Count: 5	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 25	Hand Count: 4	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 4	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 9	Hand Count: 6	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 6	Hand Count: 4	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 10	Hand Count: 5	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 25	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 5	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 20	Hand Count: 4	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 15	Hand Count: 6	, Players: 3	 Position: 6
+
+Inputs:
+Deck Count: 23	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 21	Hand Count: 3	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 24	Hand Count: 4	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 2	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 4	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 11	Hand Count: 4	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 13	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 6	Hand Count: 5	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 15	Hand Count: 5	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 18	Hand Count: 4	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 23	Hand Count: 5	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 5	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 24	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 11	Hand Count: 6	, Players: 2	 Position: 5
+
+Inputs:
+Deck Count: 23	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 13	Hand Count: 6	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 3	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 10	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 21	Hand Count: 4	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 12	Hand Count: 6	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 12	Hand Count: 6	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 25	Hand Count: 6	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 18	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 4	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 1	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 15	Hand Count: 4	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 3	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 5	Hand Count: 5	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 8	Hand Count: 4	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 17	Hand Count: 5	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 13	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 16	Hand Count: 6	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 9	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 22	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 15	Hand Count: 4	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 25	Hand Count: 6	, Players: 2	 Position: 6
+
+Inputs:
+Deck Count: 13	Hand Count: 5	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 10	Hand Count: 6	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 22	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 13	Hand Count: 4	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 14	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 18	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 13	Hand Count: 4	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 11	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 6	Hand Count: 4	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 4	Hand Count: 6	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 23	Hand Count: 4	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 12	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 23	Hand Count: 5	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 11	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 8	Hand Count: 6	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 25	Hand Count: 6	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 23	Hand Count: 5	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 18	Hand Count: 3	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 18	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 4	Hand Count: 4	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 17	Hand Count: 4	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 16	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 14	Hand Count: 6	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 13	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 14	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 17	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 17	Hand Count: 5	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 2	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 4	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 6	Hand Count: 6	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 13	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 20	Hand Count: 6	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 2	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 24	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 6	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 25	Hand Count: 5	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 5	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 2	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 17	Hand Count: 4	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 15	Hand Count: 5	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 6	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 11	Hand Count: 4	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 17	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 23	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 11	Hand Count: 6	, Players: 4	 Position: 6
+
+Inputs:
+Deck Count: 14	Hand Count: 4	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 25	Hand Count: 3	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 2	Hand Count: 5	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 3	Hand Count: 6	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 14	Hand Count: 4	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 22	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 18	Hand Count: 6	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 6	Hand Count: 5	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 16	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 24	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 25	Hand Count: 4	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 20	Hand Count: 3	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 12	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 8	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 24	Hand Count: 6	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 18	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 7	Hand Count: 6	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 18	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 24	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 6	Hand Count: 6	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 23	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 14	Hand Count: 5	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 12	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 2	Hand Count: 6	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 6	Hand Count: 3	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 19	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 3	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 5	, Players: 2	 Position: 5
+
+Inputs:
+Deck Count: 10	Hand Count: 6	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 7	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 18	Hand Count: 4	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 5	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 19	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 18	Hand Count: 5	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 9	Hand Count: 3	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 1	Hand Count: 5	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 13	Hand Count: 6	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 7	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 18	Hand Count: 6	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 18	Hand Count: 5	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 13	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 23	Hand Count: 6	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 7	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 6	Hand Count: 5	, Players: 2	 Position: 5
+
+Inputs:
+Deck Count: 22	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 14	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 5	Hand Count: 5	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 19	Hand Count: 4	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 2	Hand Count: 5	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 4	Hand Count: 5	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 18	Hand Count: 4	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 3	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 21	Hand Count: 5	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 21	Hand Count: 4	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 19	Hand Count: 5	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 17	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 6	, Players: 2	 Position: 5
+
+Inputs:
+Deck Count: 25	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 3	Hand Count: 6	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 13	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 6	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 25	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 22	Hand Count: 4	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 23	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 22	Hand Count: 6	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 2	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 24	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 1	Hand Count: 5	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 4	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 5	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 21	Hand Count: 4	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 2	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 16	Hand Count: 5	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 14	Hand Count: 4	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 11	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 25	Hand Count: 5	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 20	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 5	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 17	Hand Count: 6	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 8	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 1	Hand Count: 5	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 10	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 19	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 14	Hand Count: 5	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 5	Hand Count: 4	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 6	Hand Count: 3	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 6	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 12	Hand Count: 4	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 2	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 16	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 7	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 7	Hand Count: 4	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 23	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 25	Hand Count: 4	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 12	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 4	Hand Count: 5	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 24	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 10	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 14	Hand Count: 6	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 6	Hand Count: 4	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 25	Hand Count: 6	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 1	Hand Count: 6	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 20	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 24	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 6	Hand Count: 5	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 25	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 9	Hand Count: 5	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 18	Hand Count: 4	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 12	Hand Count: 6	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 3	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 3	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 23	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 5	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 1	Hand Count: 5	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 13	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 5	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 7	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 4	Hand Count: 4	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 15	Hand Count: 5	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 7	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 3	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 7	Hand Count: 6	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 21	Hand Count: 5	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 24	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 21	Hand Count: 5	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 4	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 18	Hand Count: 3	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 10	Hand Count: 4	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 24	Hand Count: 5	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 12	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 1	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 25	Hand Count: 4	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 22	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 9	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 21	Hand Count: 5	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 25	Hand Count: 4	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 7	Hand Count: 4	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 1	Hand Count: 6	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 18	Hand Count: 3	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 6	Hand Count: 4	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 4	Hand Count: 3	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 13	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 22	Hand Count: 6	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 7	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 10	Hand Count: 6	, Players: 4	 Position: 6
+
+Inputs:
+Deck Count: 18	Hand Count: 6	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 18	Hand Count: 5	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 24	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 11	Hand Count: 6	, Players: 4	 Position: 6
+
+Inputs:
+Deck Count: 25	Hand Count: 6	, Players: 2	 Position: 5
+
+Inputs:
+Deck Count: 10	Hand Count: 3	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 10	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 21	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 17	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 5	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 15	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 20	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 7	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 17	Hand Count: 6	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 24	Hand Count: 6	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 24	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 6	Hand Count: 5	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 7	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 3	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 17	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 24	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 12	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 4	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 1	Hand Count: 6	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 25	Hand Count: 5	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 3	Hand Count: 6	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 1	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 24	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 13	Hand Count: 6	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 4	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 25	Hand Count: 6	, Players: 4	 Position: 6
+
+Inputs:
+Deck Count: 20	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 14	Hand Count: 4	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 2	Hand Count: 6	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 16	Hand Count: 6	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 9	Hand Count: 6	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 11	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 25	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 2	Hand Count: 6	, Players: 2	 Position: 5
+
+Inputs:
+Deck Count: 9	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 24	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 8	Hand Count: 5	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 9	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 4	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 10	Hand Count: 5	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 13	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 14	Hand Count: 4	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 17	Hand Count: 4	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 8	Hand Count: 5	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 12	Hand Count: 5	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 16	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 6	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 9	Hand Count: 4	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 10	Hand Count: 6	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 4	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 10	Hand Count: 4	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 16	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 12	Hand Count: 5	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 10	Hand Count: 4	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 12	Hand Count: 6	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 16	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 22	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 4	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 12	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 6	Hand Count: 6	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 4	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 6	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 1	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 13	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 6	Hand Count: 3	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 24	Hand Count: 5	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 11	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 24	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 25	Hand Count: 5	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 14	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 6	Hand Count: 6	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 25	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 4	Hand Count: 4	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 14	Hand Count: 6	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 11	Hand Count: 6	, Players: 4	 Position: 6
+
+Inputs:
+Deck Count: 24	Hand Count: 4	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 21	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 3	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 22	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 9	Hand Count: 4	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 7	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 21	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 10	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 24	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 4	Hand Count: 6	, Players: 2	 Position: 6
+
+Inputs:
+Deck Count: 9	Hand Count: 6	, Players: 3	 Position: 6
+
+Inputs:
+Deck Count: 13	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 9	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 12	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 4	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 17	Hand Count: 6	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 20	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 9	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 7	Hand Count: 6	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 24	Hand Count: 3	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 6	Hand Count: 6	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 22	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 10	Hand Count: 5	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 17	Hand Count: 6	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 25	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 23	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 5	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 14	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 12	Hand Count: 5	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 22	Hand Count: 5	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 10	Hand Count: 4	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 4	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 1	Hand Count: 3	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 15	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 24	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 13	Hand Count: 5	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 17	Hand Count: 6	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 22	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 4	Hand Count: 6	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 3	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 6	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 23	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 1	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 14	Hand Count: 5	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 24	Hand Count: 5	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 25	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 9	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 24	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 2	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 6	, Players: 2	 Position: 5
+
+Inputs:
+Deck Count: 16	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 24	Hand Count: 4	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 2	Hand Count: 6	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 2	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 9	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 1	Hand Count: 3	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 4	Hand Count: 4	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 6	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 1	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 3	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 13	Hand Count: 3	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 24	Hand Count: 4	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 11	Hand Count: 6	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 18	Hand Count: 5	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 24	Hand Count: 4	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 2	Hand Count: 5	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 25	Hand Count: 3	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 8	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 1	Hand Count: 6	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 2	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 18	Hand Count: 4	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 19	Hand Count: 4	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 7	Hand Count: 5	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 9	Hand Count: 4	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 6	Hand Count: 6	, Players: 2	 Position: 6
+
+Inputs:
+Deck Count: 12	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 18	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 25	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 4	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 25	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 14	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 13	Hand Count: 5	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 1	Hand Count: 3	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 19	Hand Count: 6	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 2	Hand Count: 6	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 8	Hand Count: 5	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 18	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 4	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 6	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 15	Hand Count: 4	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 21	Hand Count: 4	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 13	Hand Count: 6	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 2	Hand Count: 4	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 25	Hand Count: 5	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 22	Hand Count: 6	, Players: 4	 Position: 6
+
+Inputs:
+Deck Count: 19	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 9	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 7	Hand Count: 4	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 15	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 15	Hand Count: 3	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 18	Hand Count: 5	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 9	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 6	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 9	Hand Count: 4	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 25	Hand Count: 5	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 5	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 11	Hand Count: 5	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 15	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 25	Hand Count: 5	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 13	Hand Count: 5	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 3	Hand Count: 3	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 21	Hand Count: 4	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 10	Hand Count: 5	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 25	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 1	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 17	Hand Count: 6	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 2	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 4	Hand Count: 6	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 12	Hand Count: 6	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 22	Hand Count: 3	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 3	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 4	Hand Count: 5	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 11	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 25	Hand Count: 4	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 13	Hand Count: 6	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 13	Hand Count: 5	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 22	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 14	Hand Count: 4	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 21	Hand Count: 6	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 6	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 23	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 6	Hand Count: 6	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 16	Hand Count: 4	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 17	Hand Count: 4	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 17	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 6	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 13	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 7	Hand Count: 4	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 25	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 9	Hand Count: 3	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 5	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 3	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 16	Hand Count: 3	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 6	Hand Count: 4	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 20	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 5	Hand Count: 3	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 4	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 10	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 13	Hand Count: 5	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 22	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 6	Hand Count: 3	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 10	Hand Count: 4	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 4	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 11	Hand Count: 4	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 14	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 4	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 21	Hand Count: 4	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 9	Hand Count: 5	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 18	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 4	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 7	Hand Count: 6	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 23	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 21	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 25	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 9	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 23	Hand Count: 4	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 19	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 22	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 2	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 10	Hand Count: 6	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 18	Hand Count: 4	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 7	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 1	Hand Count: 5	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 22	Hand Count: 5	, Players: 2	 Position: 5
+
+Inputs:
+Deck Count: 1	Hand Count: 5	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 9	Hand Count: 4	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 18	Hand Count: 5	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 9	Hand Count: 6	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 23	Hand Count: 3	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 11	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 6	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 12	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 25	Hand Count: 3	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 23	Hand Count: 6	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 24	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 18	Hand Count: 6	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 24	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 25	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 4	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 21	Hand Count: 4	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 4	Hand Count: 6	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 3	Hand Count: 4	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 13	Hand Count: 6	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 15	Hand Count: 5	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 23	Hand Count: 3	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 12	Hand Count: 4	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 5	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 25	Hand Count: 5	, Players: 2	 Position: 5
+
+Inputs:
+Deck Count: 8	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 21	Hand Count: 5	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 11	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 6	Hand Count: 6	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 22	Hand Count: 5	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 13	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 3	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 12	Hand Count: 5	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 17	Hand Count: 5	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 19	Hand Count: 5	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 2	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 2	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 10	Hand Count: 4	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 18	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 1	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 12	Hand Count: 6	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 15	Hand Count: 4	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 4	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 2	Hand Count: 5	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 8	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 4	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 17	Hand Count: 3	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 24	Hand Count: 6	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 10	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 1	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 2	Hand Count: 6	, Players: 2	 Position: 6
+
+Inputs:
+Deck Count: 7	Hand Count: 5	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 22	Hand Count: 6	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 4	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 24	Hand Count: 4	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 11	Hand Count: 5	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 24	Hand Count: 4	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 1	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 3	Hand Count: 3	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 25	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 6	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 1	Hand Count: 4	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 5	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 3	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 8	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 11	Hand Count: 4	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 20	Hand Count: 5	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 1	Hand Count: 6	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 2	Hand Count: 6	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 10	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 12	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 6	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 13	Hand Count: 5	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 18	Hand Count: 6	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 5	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 18	Hand Count: 4	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 23	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 11	Hand Count: 4	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 17	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 20	Hand Count: 5	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 9	Hand Count: 4	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 15	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 6	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 6	Hand Count: 4	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 18	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 22	Hand Count: 3	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 9	Hand Count: 6	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 13	Hand Count: 3	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 7	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 1	Hand Count: 6	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 4	Hand Count: 6	, Players: 4	 Position: 6
+
+Inputs:
+Deck Count: 24	Hand Count: 5	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 19	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 13	Hand Count: 4	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 24	Hand Count: 6	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 10	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 9	Hand Count: 4	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 3	Hand Count: 5	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 12	Hand Count: 4	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 12	Hand Count: 4	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 22	Hand Count: 5	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 24	Hand Count: 4	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 11	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 17	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 21	Hand Count: 6	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 5	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 17	Hand Count: 5	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 18	Hand Count: 6	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 25	Hand Count: 3	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 16	Hand Count: 6	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 7	Hand Count: 6	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 4	Hand Count: 5	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 5	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 13	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 25	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 3	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 13	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 6	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 4	Hand Count: 3	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 24	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 12	Hand Count: 5	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 25	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 18	Hand Count: 3	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 14	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 7	Hand Count: 5	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 2	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 12	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 17	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 9	Hand Count: 4	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 6	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 2	Hand Count: 5	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 25	Hand Count: 6	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 12	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 18	Hand Count: 6	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 11	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 14	Hand Count: 6	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 16	Hand Count: 6	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 4	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 13	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 3	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 16	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 12	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 9	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 11	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 5	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 11	Hand Count: 5	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 25	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 4	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 10	Hand Count: 3	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 17	Hand Count: 3	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 6	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 13	Hand Count: 6	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 22	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 3	Hand Count: 5	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 2	Hand Count: 6	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 25	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 3	Hand Count: 3	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 14	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 14	Hand Count: 5	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 24	Hand Count: 4	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 18	Hand Count: 4	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 2	Hand Count: 5	, Players: 2	 Position: 5
+
+Inputs:
+Deck Count: 11	Hand Count: 6	, Players: 4	 Position: 6
+
+Inputs:
+Deck Count: 2	Hand Count: 5	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 5	Hand Count: 5	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 21	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 18	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 9	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 24	Hand Count: 3	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 10	Hand Count: 6	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 3	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 3	Hand Count: 5	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 21	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 4	Hand Count: 6	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 7	Hand Count: 5	, Players: 2	 Position: 5
+
+Inputs:
+Deck Count: 11	Hand Count: 6	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 10	Hand Count: 6	, Players: 2	 Position: 5
+
+Inputs:
+Deck Count: 2	Hand Count: 4	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 2	Hand Count: 4	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 3	Hand Count: 3	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 9	Hand Count: 4	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 24	Hand Count: 4	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 4	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 19	Hand Count: 6	, Players: 2	 Position: 5
+
+Inputs:
+Deck Count: 16	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 11	Hand Count: 5	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 23	Hand Count: 4	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 2	Hand Count: 4	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 17	Hand Count: 5	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 10	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 4	Hand Count: 6	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 25	Hand Count: 4	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 20	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 3	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 3	Hand Count: 5	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 25	Hand Count: 5	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 14	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 18	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 22	Hand Count: 6	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 20	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 8	Hand Count: 4	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 4	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 17	Hand Count: 3	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 20	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 13	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 5	Hand Count: 6	, Players: 3	 Position: 6
+
+Inputs:
+Deck Count: 15	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 3	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 25	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 13	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 24	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 24	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 10	Hand Count: 4	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 3	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 14	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 4	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 6	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 23	Hand Count: 5	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 14	Hand Count: 4	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 20	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 22	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 16	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 3	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 12	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 22	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 4	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 7	Hand Count: 5	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 11	Hand Count: 6	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 14	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 6	Hand Count: 4	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 2	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 11	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 24	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 11	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 9	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 21	Hand Count: 6	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 13	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 3	Hand Count: 6	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 3	Hand Count: 4	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 3	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 13	Hand Count: 3	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 2	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 3	Hand Count: 4	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 14	Hand Count: 5	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 15	Hand Count: 4	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 20	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 1	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 3	Hand Count: 5	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 11	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 12	Hand Count: 3	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 3	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 21	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 2	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 25	Hand Count: 4	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 21	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 16	Hand Count: 6	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 21	Hand Count: 4	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 24	Hand Count: 4	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 6	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 4	Hand Count: 3	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 4	Hand Count: 4	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 6	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 9	Hand Count: 5	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 7	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 5	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 24	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 22	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 9	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 6	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 4	Hand Count: 5	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 20	Hand Count: 6	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 18	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 7	Hand Count: 6	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 5	Hand Count: 5	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 21	Hand Count: 6	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 11	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 21	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 23	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 14	Hand Count: 3	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 5	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 4	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 12	Hand Count: 5	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 7	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 4	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 15	Hand Count: 6	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 19	Hand Count: 6	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 24	Hand Count: 4	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 22	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 8	Hand Count: 6	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 9	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 17	Hand Count: 4	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 23	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 15	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 13	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 4	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 8	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 19	Hand Count: 4	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 4	Hand Count: 4	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 22	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 4	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 23	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 5	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 5	Hand Count: 5	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 1	Hand Count: 4	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 2	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 2	Hand Count: 3	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 1	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 13	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 3	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 13	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 18	Hand Count: 3	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 4	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 14	Hand Count: 4	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 13	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 13	Hand Count: 4	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 4	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 7	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 2	Hand Count: 3	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 12	Hand Count: 2	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 2	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 5	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 11	Hand Count: 6	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 3	Hand Count: 6	, Players: 2	 Position: 5
+
+Inputs:
+Deck Count: 15	Hand Count: 5	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 9	Hand Count: 6	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 6	Hand Count: 2	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 4	Hand Count: 1	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 4	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 22	Hand Count: 5	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 23	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 20	Hand Count: 4	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 10	Hand Count: 4	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 4	Hand Count: 5	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 18	Hand Count: 4	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 5	Hand Count: 6	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 25	Hand Count: 1	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 4	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 25	Hand Count: 4	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 11	Hand Count: 4	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 23	Hand Count: 5	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 14	Hand Count: 4	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 6	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 3	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 13	Hand Count: 4	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 20	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 7	Hand Count: 3	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 3	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 20	Hand Count: 3	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 11	Hand Count: 3	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 2	Hand Count: 3	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 8	Hand Count: 3	, Players: 2	 Position: 2
+
+Inputs:
+Deck Count: 15	Hand Count: 6	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 16	Hand Count: 5	, Players: 2	 Position: 5
+
+Inputs:
+Deck Count: 2	Hand Count: 3	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 25	Hand Count: 4	, Players: 3	 Position: 3
+
+Inputs:
+Deck Count: 15	Hand Count: 6	, Players: 2	 Position: 4
+
+Inputs:
+Deck Count: 1	Hand Count: 5	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 12	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 22	Hand Count: 5	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 19	Hand Count: 5	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 7	Hand Count: 6	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 7	Hand Count: 3	, Players: 4	 Position: 3
+
+Inputs:
+Deck Count: 3	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 5	Hand Count: 3	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 6	Hand Count: 5	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 24	Hand Count: 6	, Players: 3	 Position: 6
+
+Inputs:
+Deck Count: 17	Hand Count: 2	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 10	Hand Count: 6	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 5	Hand Count: 5	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 12	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 22	Hand Count: 5	, Players: 2	 Position: 3
+
+Inputs:
+Deck Count: 7	Hand Count: 2	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 19	Hand Count: 4	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 11	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 12	Hand Count: 6	, Players: 4	 Position: 5
+
+Inputs:
+Deck Count: 1	Hand Count: 5	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 15	Hand Count: 4	, Players: 2	 Position: 1
+
+Inputs:
+Deck Count: 12	Hand Count: 6	, Players: 3	 Position: 4
+
+Inputs:
+Deck Count: 3	Hand Count: 5	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 13	Hand Count: 5	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 15	Hand Count: 3	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 23	Hand Count: 2	, Players: 4	 Position: 1
+
+Inputs:
+Deck Count: 12	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 16	Hand Count: 2	, Players: 3	 Position: 2
+
+Inputs:
+Deck Count: 5	Hand Count: 6	, Players: 3	 Position: 5
+
+Inputs:
+Deck Count: 4	Hand Count: 3	, Players: 4	 Position: 2
+
+Inputs:
+Deck Count: 14	Hand Count: 1	, Players: 3	 Position: 1
+
+Inputs:
+Deck Count: 23	Hand Count: 4	, Players: 4	 Position: 4
+
+Inputs:
+Deck Count: 21	Hand Count: 5	, Players: 2	 Position: 1

@@ -1,0 +1,13 @@
+RUNNING MYTESTS TO EXECUTE UNIT TESTS
+Executing unittest1
+whoseTurn passed test
+Executing unittest2
+isGameOver passed first test
+isGameOver Passed second test
+Executing unittest3
+getCost passed tests
+Executing unittest4
+buyCard passed tests
+Executing cardtest1
+Adventurer passed tests
+Executing cardtest2
