@@ -1,2 +1,3 @@
-# CS362-004-S2018
-CS 362. SOFTWARE ENGINEERING II Spring 2018 (Ecampus-Distance Education)
+Assignment-5 README. Creating randomtest functions and calculating total code coverage Functions chosen for randomtests: isGameOver, buyCard To Execute: make all make randomtestadventurer.out make randomtestcard1.out make randomtestcard2.out
+
+output files: randomtestadventurer.out >> coverage testadventurer.out >> printout of random adventurer tests randomtests1.out >> printout of random card 1 tests randomtests2.out >> printout of random card 2 tests randomtestcard1.out >> coverage randomtestcard2.out >> coverage
